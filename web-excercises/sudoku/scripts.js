@@ -41,8 +41,9 @@ for(let i = 1 ; i < 9; i++){
 
 // TODO dark mode 
 //      beautifiy
-//      
-//      
-//      
-//      
-//      
+//      puntuaction table
+//      generating algorithm
+//      new game (continue game??)
+//      difficulty
+//      highlight errors 
+//      all the functions of any sudoku app
